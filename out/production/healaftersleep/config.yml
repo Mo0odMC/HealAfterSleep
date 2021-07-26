@@ -1,0 +1,6 @@
+#  ┏┓┏┓┏━━┓┏━━┓
+#  ┃┗┛┃┃┏┓┃┃━━┫ HealAfterSleep plugin v0.0.3
+#  ┃┏┓┃┃┣┫┃┣━━┃ Made by Mo0od
+#  ┗┛┗┛┗┛┗┛┗━━┛
+## set permission to true if you want to assign HAS.use to players
+permission: false

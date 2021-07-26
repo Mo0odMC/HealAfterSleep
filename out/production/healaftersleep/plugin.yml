@@ -1,11 +1,14 @@
 name: HealAfterSleep
 main: com.Mo0od.healaftersleep.HealAfterSleep
-version: 0.0.1
+version: 0.0.3
 author: Mo0od
 api-version: 1.17
 commands:
   HealAfterSleep:
     description: HealAfterSleep help menu
     usage: /<command>
-    permission: HAS.use
-    permission-message: you dont have permission to use this command
+
+  HealAfterSleep reload:
+    description: HealAfterSleep reload config
+    usage: /<command>
+    permission: HAS.reload
