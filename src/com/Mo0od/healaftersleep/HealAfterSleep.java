@@ -24,7 +24,7 @@ public class HealAfterSleep extends JavaPlugin {
         getServer().getConsoleSender().sendMessage(ChatColor.AQUA + " _   _  " + ChatColor.GREEN + " _____  " + ChatColor.BLUE + " ____ " + ChatColor.DARK_GREEN + "|  ===============================");
         getServer().getConsoleSender().sendMessage(ChatColor.AQUA + "| |_| | " + ChatColor.GREEN + "|  _  | " + ChatColor.BLUE + "| ___|" + ChatColor.GREEN + "|  HealAfterSleep plugin enabled");
         getServer().getConsoleSender().sendMessage(ChatColor.AQUA + "|  _  | " + ChatColor.GREEN + "| |_| | " + ChatColor.BLUE + "|___ |" + ChatColor.AQUA + "|  Author: Mo0od");
-        getServer().getConsoleSender().sendMessage(ChatColor.AQUA + "|_| |_| " + ChatColor.GREEN + "|_| |_| " + ChatColor.BLUE + "|____|" + ChatColor.DARK_BLUE + "|  Version 0.0.3");
+        getServer().getConsoleSender().sendMessage(ChatColor.AQUA + "|_| |_| " + ChatColor.GREEN + "|_| |_| " + ChatColor.BLUE + "|____|" + ChatColor.DARK_BLUE + "|  Version 0.0.4");
 
     }
     @Override
@@ -32,7 +32,7 @@ public class HealAfterSleep extends JavaPlugin {
         getServer().getConsoleSender().sendMessage(ChatColor.AQUA + " _   _  " + ChatColor.GREEN + " _____  " + ChatColor.BLUE + " ____ " + ChatColor.DARK_RED + "|  ===============================");
         getServer().getConsoleSender().sendMessage(ChatColor.AQUA + "| |_| | " + ChatColor.GREEN + "|  _  | " + ChatColor.BLUE + "| ___|" + ChatColor.RED + "|  HealAfterSleep plugin disabled");
         getServer().getConsoleSender().sendMessage(ChatColor.AQUA + "|  _  | " + ChatColor.GREEN + "| |_| | " + ChatColor.BLUE + "|___ |" + ChatColor.AQUA + "|  Author: Mo0od");
-        getServer().getConsoleSender().sendMessage(ChatColor.AQUA + "|_| |_| " + ChatColor.GREEN + "|_| |_| " + ChatColor.BLUE + "|____|" + ChatColor.DARK_BLUE + "|  Version 0.0.3");
+        getServer().getConsoleSender().sendMessage(ChatColor.AQUA + "|_| |_| " + ChatColor.GREEN + "|_| |_| " + ChatColor.BLUE + "|____|" + ChatColor.DARK_BLUE + "|  Version 0.0.4");
 
 
     }
