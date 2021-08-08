@@ -1,6 +1,6 @@
 name: HealAfterSleep
 main: com.Mo0od.healaftersleep.HealAfterSleep
-version: 0.0.3
+version: 0.0.4
 author: Mo0od
 api-version: 1.17
 commands:
